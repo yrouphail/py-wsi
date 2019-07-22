@@ -22,7 +22,6 @@ setup(name='py_wsi',
       license='GNU General Public License v3.0',
       packages=['py_wsi'],
       install_requires=[
-          'shapely',
           'numpy',
           'openslide-python',
           'lmdb',
